@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35167145157",
+    "project_id": "fir-referral-reward",
+    "storage_bucket": "fir-referral-reward.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35167145157:android:4555377b158a5ce02534ac",
+        "android_client_info": {
+          "package_name": "com.rn_firebase_referral_rewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35167145157-b1bkfgm2kqt74atjpmd5qad42cqnq10a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGly4I0AWHpK1ZkJLd02GuJzltVZQ_hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35167145157-b1bkfgm2kqt74atjpmd5qad42cqnq10a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
